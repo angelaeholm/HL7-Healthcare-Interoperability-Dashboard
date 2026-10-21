@@ -1,0 +1,24 @@
+Validation_Check,Issues_Found,Category
+Missing Patients,0,Patient Demographics
+Unexpected Patients,0,Patient Demographics
+Duplicate Patient IDs,0,Patient Demographics
+Last_Name Mismatches,0,Patient Demographics
+First_Name Mismatches,0,Patient Demographics
+Date_of_Birth Mismatches,0,Patient Demographics
+Sex Mismatches,0,Patient Demographics
+Missing Orders,0,Laboratory Orders
+Unexpected Orders,0,Laboratory Orders
+Duplicate Order IDs,0,Laboratory Orders
+Patient_ID Mismatches,0,Laboratory Orders
+Panel_LOINC Mismatches,0,Laboratory Orders
+Collection_Time Mismatches,0,Laboratory Orders
+Result_Time Mismatches,0,Laboratory Orders
+Panel Name Mismatches,0,Laboratory Orders
+Missing Laboratory Results,0,Laboratory Results
+Unexpected Laboratory Results,0,Laboratory Results
+Source Duplicate Observations,0,Laboratory Results
+HL7 Duplicate Observations,0,Laboratory Results
+Test_Name Mismatches,0,Laboratory Results
+Unit Mismatches,0,Laboratory Results
+Result_Status Mismatches,0,Laboratory Results
+Numerical Result Mismatches,0,Laboratory Results

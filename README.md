@@ -151,6 +151,16 @@ Key measures include:
 
 The dashboard provides a consolidated view of both laboratory operational metrics and message processing performance.
 
+## Dashboard Screenshots
+
+### Laboratory Operations Overview
+![Laboratory Operations Overview](screenshots/laboratory_operations_overview.png)
+
+### Laboratory Test Utilization
+![Laboratory Test Utilization](screenshots/laboratory_test_utilization.png)
+
+### HL7 Message Performance
+![HL7 Message Performance](screenshots/hl7_message_performance.png)
 ## Key Findings
 
 The project produced several notable results:

@@ -161,6 +161,7 @@ The dashboard provides a consolidated view of both laboratory operational metric
 
 ### HL7 Message Performance
 ![HL7 Message Performance](screenshots/hl7_message_performance.png)
+
 ## Key Findings
 
 The project produced several notable results:
